@@ -1,4 +1,5 @@
-# GE XLP 
+# GE XLP 2017
+ 
 Boilerplate frontend code for GE XLP Experience
 
 ## Development
@@ -10,4 +11,5 @@ Boilerplate frontend code for GE XLP Experience
 ## Deployment
 
 1. Update `manifest.yml`, replacing `YOURNAME` without using any spaces
-2. Run `cf push`, you may have to run `cf login` beforehand
+2. Login to cloud foundry using `cf login`
+2. Deploy with `cf push`
