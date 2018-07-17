@@ -7,7 +7,7 @@
 */
 
 // Which Edge Device are we reading? Update with your device
-var device = 'xlp-47';
+var device = 'xlp-00';
 
 // Define sensor data
 // min/max correspond to sensor ranges
