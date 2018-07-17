@@ -1,4 +1,4 @@
-# GE XLP 2017
+# GE XLP 2018
  
 Boilerplate frontend code for GE XLP Experience
 
